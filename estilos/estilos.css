@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    color: #333;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#Container{
+    text-align: left;
+    width: 70%;
+    padding: 0;
+    border: 3px solid red;
+    margin: 0 auto;
+}
+
+#Container-titulo{
+font-size: 20px;
+}
+
