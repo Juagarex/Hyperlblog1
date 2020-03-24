@@ -10,12 +10,14 @@ body{
 #Container{
     text-align: left;
     width: 70%;
-    padding: 0;
-    border: 3px solid red;
+    border: 2px solid gray;
     margin: 0 auto;
+    padding: 1em;
+    margin-left: 1em;
 }
 
 #Container-titulo{
 font-size: 20px;
+
 }
 
