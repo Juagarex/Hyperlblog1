@@ -5,3 +5,5 @@ Y Juan tiene 25 años
 Juan esta enseñando programacion basica
 
 Ya tengo conectado mi repositorio remoto
+
+Mi nombre es Jonathan y fuí agregado a este proyecto
